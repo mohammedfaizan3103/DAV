@@ -41,5 +41,4 @@ It includes approximately **6,900 complete entries**, though some values are mis
 
 ---
 
-📌 **Source**: [Video Game Sales with Ratings Dataset] (https://www.kaggle.com/datasets/rush4ratio/video-game-sales-
-with-ratings)
+📌 **Source**: [Video Game Sales with Ratings Dataset] (https://www.kaggle.com/datasets/rush4ratio/video-game-sales-with-ratings)
